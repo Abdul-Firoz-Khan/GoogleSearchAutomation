@@ -11,5 +11,6 @@ This project demonstrates how to automate a simple Google search using Selenium 
 - Internet connection
 
 git clone https://github.com/Abdul-Firoz-Khan/GoogleSearchAutomation.git
+
 cd GoogleSearchAutomation
 
